@@ -45,7 +45,7 @@ const ERRO_BANCO_DADOS = [
 // /////////////////////////////////
 
 const SUCESSO_LISTAGEM = [
-    "status" => true, "status_code" => 200, "mensagem" => "Cadastrado com Sucesso ! "
+    "status" => true, "status_code" => 200, "mensagem" => "Contatos listados com sucesso ! "
 ];
 
 const SUCESSO_BUSCA = [
@@ -61,7 +61,7 @@ const SUCESSO_ATUALIZADO = [
 ];
 
 const SUCESSO_DELETADO = [
-    "status" => true, "status_code" => 200, "mensagem" => "Contato Deteletado com Sucesso"
+    "status" => true, "status_code" => 200, "mensagem" => "Contato Deletado com Sucesso"
 ];
 
 
