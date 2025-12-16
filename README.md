@@ -143,6 +143,7 @@ Back de Contatos/
 ## 🌐 Endpoints da API
 
 Pasta -> laragon\www\alphacode\Back de Contatos
+
 URL Base: `http://localhost/alphacode/Back%20de%20Contatos/api/contatos.php`
 
 | Método | Endpoint | Descrição |
